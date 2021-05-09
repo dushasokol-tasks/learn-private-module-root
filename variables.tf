@@ -7,5 +7,5 @@ variable "prefix" {
 }
 
 variable "name" {
-  description = "Your name to attach to the webapp address"
+  description = "Your name to attach to the webapp address..."
 }
